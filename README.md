@@ -1,0 +1,2 @@
+# interface-examle-on-Java
+Turkey announced a national lockdown. Under the restrictions, people are not allowed go outside during curfew hours. In this assignment we have a Lockdown interface which contains method showFreeHours (does not return a value). Interface Lockdown must be implemented by Person class. Each subclass (Kid, Parent, Elderly) created in  exapmle to learn inheritance logic Publicexapmle of will contain the information of free hours people can go out (using showFreeHours). 
